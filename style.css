@@ -1,0 +1,14 @@
+/* NAVBAR */
+*{
+    font-size: 0.8rem !important;
+}
+
+.number{
+    text-align: center !important;
+    color: #fff !important;
+    display: inline-block !important;
+    padding:0px 5px;
+    font-size: 0.8rem !important;
+    top: 9px;
+    right:2px;
+}
